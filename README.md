@@ -43,9 +43,6 @@ File Handling: Openpyxl and built-in CSV libraries
 
 💾 Dataset
 The analysis is based on a dataset of Airbnb listings from New York City.
-
-("C:\Users\Supre\Downloads\VOIS _INTERSHIP\1730285881-Airbnb_Open_Data.xlsx")
-
 The dataset includes features such as neighborhood, property type, room type, number of bedrooms/bathrooms, price, guest reviews, and availability.
 
 ⚙️ Setup and Installation
